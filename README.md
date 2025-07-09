@@ -1,5 +1,5 @@
-## Learn Data science
-# by el
+# Learn Data science
+## by el
 
 1. Clone repo ini dulu
 2. trus bukak di vscode, file > open folder > repo ini
