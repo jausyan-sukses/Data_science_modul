@@ -8,4 +8,5 @@
 5. pastikan sudah install jupyter notebook di vscode atau gunakan google collab
 
 # Soal Compfest UI
-buka folder Compfest_datascience
+1. buka folder Compfest_datascience
+2. Buka file 'runner.ipynb' script notebooknya itu
